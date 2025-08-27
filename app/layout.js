@@ -2,7 +2,7 @@ import "./globals.css";
 import Footer from "../components/Footer";
 
 export const metadata = {
-  title: "My Portfolio",
+  title: "Portofolio | Reno Widi",
   description: "Personal portfolio website",
 };
 
