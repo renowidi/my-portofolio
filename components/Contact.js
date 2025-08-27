@@ -40,8 +40,8 @@ export default function Contact() {
                 <Mail className="mx-auto mb-4 text-blue-600 dark:text-blue-400" size={36} />
               ),
               title: "Email",
-              desc: "renowidi@email.com",
-              link: "mailto:renowidi@email.com",
+              desc: "renowidi.rw44@gmail.com",
+              link: "mailto:renowidi.rw44@gmail.com",
             },
             {
               icon: (
